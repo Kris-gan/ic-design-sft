@@ -9,7 +9,7 @@ data/full/
 dataset_*.json
 instructions_*.json
 ic_test_*.json
-eval_result.json
+assets/eval_result.json
 
 # 只保留 sample/ 下的示例数据
 !data/sample/
