@@ -1,0 +1,22 @@
+[
+  {"instruction": "解释建立时间（Setup Time）和保持时间（Hold Time）的区别", "input": "", "output": ""},
+  {"instruction": "写一个同步复位的 D 触发器 Verilog 代码", "input": "", "output": ""},
+  {"instruction": "分析以下时序报告，指出违例路径", "input": "Path: ...", "output": ""},
+  {"instruction": "解释 TSMC 28nm 工艺中金属层命名规则", "input": "", "output": ""},
+  {"instruction": "写一个4位加法器的 RTL 代码并加注释", "input": "", "output": ""},
+  {"instruction": "什么是时钟树综合（CTS），它的主要目标是什么", "input": "", "output": ""},
+  {"instruction": "解释静态时序分析（STA）中的 slack 概念", "input": "", "output": ""},
+  {"instruction": "写一个 SystemVerilog 的 AXI4-Lite 主机接口模块", "input": "", "output": ""},
+  {"instruction": "解释芯片 floorplan 阶段需要考虑哪些关键因素", "input": "", "output": ""},
+  {"instruction": "什么是 IR drop，如何在后端设计中缓解它", "input": "", "output": ""},
+  {"instruction": "写一个用于检测亚稳态的双寄存器同步电路 Verilog 实现", "input": "", "output": ""},
+  {"instruction": "解释 LVS（Layout vs Schematic）检查的流程和常见错误", "input": "", "output": ""},
+  {"instruction": "什么是 DRC 规则，列举5种常见的 DRC 违例类型", "input": "", "output": ""},
+  {"instruction": "解释 SDC 约束文件中 create_clock 和 set_input_delay 的用法", "input": "", "output": ""},
+  {"instruction": "写一个 FIFO 模块的 Verilog 实现，包含 full 和 empty 标志", "input": "", "output": ""},
+  {"instruction": "解释 FinFET 和平面 MOSFET 在结构上的主要区别", "input": "", "output": ""},
+  {"instruction": "分析以下 DRC 报告并给出修复建议", "input": "DRC Report: ...", "output": ""},
+  {"instruction": "什么是多阈值电压（Multi-Vt）优化策略，如何权衡功耗和速度", "input": "", "output": ""},
+  {"instruction": "解释 OCV（On-Chip Variation）对时序分析的影响及应对方法", "input": "", "output": ""},
+  {"instruction": "写一个基于 UVM 的简单 testbench 框架，包含 agent 和 driver", "input": "", "output": ""}
+]
